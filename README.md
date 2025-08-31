@@ -46,18 +46,7 @@
 
 ---
 
-## 📊 GitHub 统计
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webvs2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webvs2&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webvs2&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ## 🌌 星河语录
 

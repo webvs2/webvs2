@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 ---
 
 
@@ -14,13 +10,7 @@
 
 来自一个叫做"无故事之地"的遥远地方，在代码的星河中寻找属于自己的故事。
 
-### 🚀 我的特色
 
-- 🚀 **探索新技术** - 热衷于探索前沿技术
-- 🎨 **创意编程** - 喜欢视觉化和AI应用
-- 🌍 **开源分享** - 热爱开源社区和知识分享
-
----
 
 ## ⚡ 技能星河
 
@@ -29,24 +19,7 @@
 </p>
 
 
-
-## 🌟 星际联系
-
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-blog.com">
-    <img src="https://img.shields.io/badge/-Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
 ---
-
-
 
 ## 🌌 星河语录
 

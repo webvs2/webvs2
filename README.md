@@ -1,20 +1,14 @@
 # ✨ 星河漫游者 ✨
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=star&color=0:6e7fd7,100:a2d9ff&height=120&section=header&text=星河漫游者&fontSize=40&animation=twinkling" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=09C6F9&center=true&vCenter=true&width=600&lines=🚀+探索宇宙边界;🌌+在代码的星河中追寻自由;✨+去看看远处的云彩" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=webvs2&color=09C6F9&style=for-the-badge" alt="Profile views" />
-</p>
+
+
+
 
 ---
 
-## 🌟 关于我
+
 
 ✨ Hello, I'm **Pengpeng** ✨
 

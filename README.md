@@ -25,9 +25,7 @@
 
 > *"在代码的星河中追寻自由，去看看远处的云彩"*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=感谢访问我的星河&fontSize=20" />
-</p>
+
 
 ---
 
